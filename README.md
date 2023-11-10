@@ -1,5 +1,5 @@
 # 014_Java_NCSU_Biodiversity
-This project utilizes JavaScript to create Interactive Dashboards to display data pulled via API.  
+This project utilizes JavaScript (Plotly) to create Interactive Dashboards to display data pulled via API.  
 - Project's dashboards are hosted at: https://s-bonillas.github.io/014_Javascript_NCSU_Biodiversity/
 
 **Sources:**
