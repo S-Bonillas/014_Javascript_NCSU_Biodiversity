@@ -8,9 +8,9 @@ The original data was derived from North Carolina State University's Belly Butto
 
 **Project files:**
 **'014_Java_NCSU_Biodiversity' Folder contains:**
-- index.html (HTML file, housing the project dashboards)
-- samples.json (Sample data pulled from the BBB API, but not used in the dashboards)
+- index.html (HTML file, housing the project dashboards.  Original Index.html was provided for the project, but scripts section was updated to accommodate the created JavaScript files)
 - README.md (The file which you are reading right now)
+- samples.json (Provided sample data pulled from the BBB API, but not used in the dashboards)
 - 'static > js' Folder (JavaScript files housed here)
 
 **'014_Java_NCSU_Biodiversity > static ' Folder only only contains the 'js' folder:**
