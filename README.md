@@ -1,7 +1,6 @@
 # 014_Java_NCSU_Biodiversity
 This project utilizes JavaScript to create Interactive Dashboards to display data pulled via API.  
-
-The project's dashboards are hosted at: https://s-bonillas.github.io/014_Javascript_NCSU_Biodiversity/
+- Project's dashboards are hosted at: https://s-bonillas.github.io/014_Javascript_NCSU_Biodiversity/
 
 **Sources:**
 The original data was derived from North Carolina State University's Belly Button Biodiversity Project.
